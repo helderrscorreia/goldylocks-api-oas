@@ -2,7 +2,7 @@
   "openapi" : "3.0.0",
   "info" : {
     "title" : "API Goldylocks",
-    "description" : "### Chave API\nTodos os pedidos à API do Goldylocks feitos de forma externa têm de utilizar uma **chave API**.\nDe forma a ser possivel utilizar a **chave API** tem de ser adicionado ao URL o paramêtro `&api=CHAVE_API_GOLDYLOCKS`.\nA **chave API** do Goldylocks é gerada indo a `Gestão` -> `Tabelas` -> `Agentes` e clicar em `Criar Chave API`.\n\n*Goldyteam Portugal 2019*",
+    "description" : "### Chave API\nTodos os pedidos à API do Goldylocks feitos de forma externa têm de utilizar uma **chave API**.\nDe forma a ser possivel utilizar a **chave API** tem de ser adicionado ao URL o paramêtro `&api=CHAVE_API_GOLDYLOCKS`.\nA **chave API** do Goldylocks é gerada indo a `Gestão` -> `Tabelas` -> `Agentes` e clicar em `Criar Chave API`.\n\n*Goldyteam Portugal 2020*",
     "contact" : { },
     "version" : "1.0"
   },
